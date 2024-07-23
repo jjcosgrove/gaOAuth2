@@ -5,7 +5,7 @@ gaOAuth2 is a simple helper class for working with the Google Analytics API.
 Release information:
 * Current Version: 1.0.0
 
-##Setup
+## Setup
 
 * Place the files within your desired webroot.
 * Configure the gaOAuth2 object via constructor (see Google GA API docs for help).
@@ -13,7 +13,7 @@ Release information:
 * Visit the page - if it is your first run then you will be prompted to authenticate.
 * Once authenticated, your GA API credentials will be stored for future use and refreshed when needed.
 
-##Usage
+## Usage
 
 ```php
 require('gaOAuth2/gaOAuth2.php');
@@ -40,7 +40,7 @@ $myGAOAuth2Response = $myGAOAuth2->Request($myGAQuery);
 
 The included 'index.php' file provides a rough framework/example to get you started.
 
-##Contact
+## Contact
 
 Please send feedback, comments and suggestions to my email address which can be found within the gaOAuth2 class definition.
 
@@ -48,6 +48,6 @@ Bugs or feature requests/contributions can be done via:
 
 [https://github.com/jjcosgrove/gaOAuth2/issues](https://github.com/jjcosgrove/gaOAuth2/issues)
 
-##Authors
+## Authors
 
 * Just me for now.
