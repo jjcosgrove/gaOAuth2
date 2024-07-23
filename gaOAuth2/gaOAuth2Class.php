@@ -10,7 +10,7 @@
      *
      * 
      *
-     * @author Jonathan James Cosgrove (jjcosgrove.inbox@gmail.com)
+     * @author Jonathan James Cosgrove
      * @version 1.0.0
      * @link https://github.com/jjcosgrove/gaOAuth2
      */
